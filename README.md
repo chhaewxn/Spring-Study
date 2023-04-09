@@ -11,4 +11,13 @@ GDSC 4-2기 Spring 스터디 <br> <br>
 - 📝 정리: https://velog.io/@chhaewxn/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%ED%9A%8C%EC%9B%90-%EA%B4%80%EB%A6%AC-%EC%98%88%EC%A0%9C
 
 ## 4. 스프링 빈과 의존관계
-- 📝 정리:https://velog.io/@chhaewxn/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8
+- 📝 정리: https://velog.io/@chhaewxn/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8
+
+## 5. 회원 관리 예제 - 웹 MVC 개발
+- 📝 정리: https://velog.io/@chhaewxn/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%ED%9A%8C%EC%9B%90-%EA%B4%80%EB%A6%AC-%EC%98%88%EC%A0%9C-bsvo0cee
+
+## 6. 스프링 DB 접근 기술
+- 📝 정리: https://velog.io/@chhaewxn/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81-DB-%EC%A0%91%EA%B7%BC-%EA%B8%B0%EC%88%A0
+
+## 7. AOP
+- 📝 정리: https://velog.io/@chhaewxn/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-AOP
